@@ -29,8 +29,7 @@ function App() {
           </Nav>
         </Container>
       </Navbar>
-      <p>hello</p>
-      <br />
+
       <Form className="form-container">
         <Form.Group className="mb-3" controlId="formBasicEmail">
           <Form.Label>Email address</Form.Label>
